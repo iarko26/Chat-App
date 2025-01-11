@@ -2,6 +2,13 @@
 
 This is a fully-featured real-time chat application that allows users to live chat, create channels, and upload profile pictures. The app features a responsive design, group chats, and personal messaging capabilities. It is built using modern web technologies for a seamless and engaging user experience.
 
+
+
+## *Project Video**
+https://github.com/user-attachments/assets/0afd9330-e324-4b39-8779-f43f0e70e5e7
+
+
+
 ## **Features**
 ## **Frotend**
 1. React: Built with the React JavaScript library.
@@ -45,7 +52,9 @@ To install Project Title, follow these steps:
 3. Install dependencies
 4. Build the project
 5. Start the project
-6. make a .env file 
+6. make a .env file (PORT,JWT Key, Mongodburl)
+7.http://localhost:5173
+
    
 
 
